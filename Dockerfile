@@ -1,8 +1,8 @@
 FROM marcelmaatkamp/freeradius
 
 # device
-ENV DEVICE_NAME=router_wireless
-ENV DEVICE_HOSTNAME=192.168.1.18
+ENV DEVICE_NAME=router
+ENV DEVICE_HOSTNAME=10.251.32.5
 ENV DEVICE_SECRET=SECRET
 
 # user
